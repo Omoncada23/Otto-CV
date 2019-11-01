@@ -1,0 +1,9 @@
+body {background-color: #EAF6F6;}
+hr {border-color: grey;
+  border-style: dotted none none none;
+  border-width: 10px;
+  height: 0;
+  width: 10%;}
+h1 {color: #66bfbf; font-family: Georgia, serif}
+h3 {color: #66bfbf; font-family: Georgia, serif}
+p {font-family: Verdana, sans-serif}
